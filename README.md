@@ -10,7 +10,7 @@
 
 ## About Me
 
-B.Tech CSE student (2027) · Malla Reddy Engineering College for Women, Hyderabad · CGPA 9.05
+B.Tech CSE student (2027) · Malla Reddy Engineering College for Women, Hyderabad · CGPA 9.08
 
 I build production-grade full-stack apps, ML pipelines, and real SaaS products — things that are deployed, used, and measured. 3 internships, 5+ shipped projects across cloud infra, OCR/AI pipelines, and REST APIs.
 
