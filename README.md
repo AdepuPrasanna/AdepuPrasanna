@@ -1,9 +1,9 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasanna+Adepu;Full-Stack+Developer+%7C+ML+Engineer;Building+things+that+ship+to+prod)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasanna+Adepu;Full-Stack+Developer+%7C+ML+Engineer;Building+things+that+ship+to+production)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-ten-chi-bsq7066miy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adepu-prasanna)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannaadepu2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=prasannaadepu2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdepuPrasanna)
 
 ---
@@ -198,22 +198,13 @@ Interactive quiz game with three question types (single-select, multi-select, fi
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdepuPrasanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdepuPrasanna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdepuPrasanna&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## Let's Connect
 
 Open to internships, collaborations, and freelance work in full-stack, AI/ML, and SaaS.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-ten-chi-bsq7066miy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adepu-prasanna)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannaadepu2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=prasannaadepu2005@gmail.com)
 
 ---
 
